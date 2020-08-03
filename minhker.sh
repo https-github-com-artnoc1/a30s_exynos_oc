@@ -50,7 +50,7 @@ export CC=$Mk_CC
 # General init
 export ANDROID_MAJOR_VERSION=$MK_ANDROID
 export PLATFORM_VERSION=$MK_PLATFORM
-export $MK_ARCH
+export ARCH=$MK_ARCH
 ##########################################
 
 MK_CONFG_A30S=exynos7885-a30s_Q_defconfig
